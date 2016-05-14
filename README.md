@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ashezi/myindianwebsite.png?label=ready&title=Ready)](https://waffle.io/ashezi/myindianwebsite)
 # My Indian Website
 
 ##Pages
